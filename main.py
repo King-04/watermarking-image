@@ -23,7 +23,7 @@ def add_watermark():
     draw.text((x,y), text, font=font)
     im.show()
 
-    im.save('C:/Users/ISAAC/Pictures/Saved Pictures/mn.jpg')
+    im.save('C:/.../Pictures/Saved Pictures/mn.jpg')
 
 # to-do 1
 # Let's design GUI first so that we can have front-end window to dispaly
